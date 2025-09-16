@@ -1,0 +1,4 @@
+atproto
+snscrape
+requests
+python-dotenv
